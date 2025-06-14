@@ -46,7 +46,7 @@ params:
     profileMode:
           enabled: true
           title: Dr. Behnaz Jarrahi
-          subtitle: "I study the human brain using neuroimaging techniques. I explore the mysteries of the mind through a philosophical lens. My scholarly interests lie at the intersection of neuroscience and neurophilosophy."
+          subtitle: "I study the human brain using neuroimaging techniques. I explore the mysteries of the mind through a philosophical lens. My scholarly interests lie at the intersection of neuroscience and philosophy of mind."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
