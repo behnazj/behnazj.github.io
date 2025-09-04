@@ -21,7 +21,7 @@ menu:
           weight: 3 
           
 params:
-    description: "Neuroscientist and Neurophilosopher"
+    description: "Neuroscientist, Neurophilosopher, Biomedical Engineer"
     author: Name
     googleAnalyticsID: "G-WDNCFJ7MSL"
     DateFormat: "January 2006"
@@ -46,7 +46,7 @@ params:
     profileMode:
           enabled: true
           title: Dr. Behnaz Jarrahi
-          subtitle: "I study the human brain using neuroimaging techniques. I explore the mysteries of the mind through a philosophical lens. My scholarly interests lie at the intersection of neuroscience and philosophy of mind."
+          subtitle: "I study the human brain using neuroimaging techniques. I explore the mysteries of the mind through a philosophical lens. As a biomedical engineer, I am interested in translational and clinical research that integrates engineering principles with medicine."
           imageUrl: "pic.jpg"
           imageWidth: 160
           imageHeight: 160
