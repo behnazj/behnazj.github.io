@@ -47,7 +47,7 @@ params:
           enabled: true
           title: Dr. Behnaz Jarrahi
           subtitle: "I study the human brain using neuroimaging techniques. I explore the mysteries of the mind through a philosophical lens. I am also interested in translational and clinical research that integrates engineering principles with medicine."
-          imageUrl: "pic.jpg"
+          imageUrl: "picture1.jpeg"
           imageWidth: 160
           imageHeight: 160
           imageTitle: Dr. Behnaz Jarrahi
