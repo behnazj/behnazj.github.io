@@ -45,7 +45,7 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Behnaz Jarrahi
+          title: Dr. Behnaz Jarrahi
           subtitle: "I study the human brain using neuroimaging techniques. I explore the mysteries of the mind through a philosophical lens."
           imageUrl: "picture1.jpeg"
           imageWidth: 160
@@ -59,7 +59,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Dr. Behnaz Jarrahi"
+      text: "Behnaz Jarrahi"
       icon: favicon.ico
       iconHeight: 18
 
